@@ -1,1 +1,2 @@
-# linux-lenovo-tb328fu
+# MOVED
+https://github.com/faveoled/lenovo-tb328fu-kernel-source
